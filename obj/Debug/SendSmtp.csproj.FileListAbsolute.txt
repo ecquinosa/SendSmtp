@@ -1,0 +1,8 @@
+D:\WORK\Projects\SendSmtp\bin\Debug\SendSmtp.exe
+D:\WORK\Projects\SendSmtp\bin\Debug\SendSmtp.pdb
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.Form1.resources
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.Properties.Resources.resources
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.csproj.GenerateResource.cache
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.csproj.CoreCompileInputs.cache
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.exe
+D:\WORK\Projects\SendSmtp\obj\Debug\SendSmtp.pdb
